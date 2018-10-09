@@ -71,10 +71,7 @@ class App extends Component {
                       <img src={Logo} alt="joey rooms"></img>
 
                   </div>
-                  <div className="col-xl-9 mx-auto">
-                      <h1 className="mb-10">Set Your Location</h1>
-                      <h4>Find Your Ideal Home</h4>
-                  </div>
+                
 
                   <div className="col-md-10 col-lg-8 col-xl-7 mx-auto">
                       <form>
