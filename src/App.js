@@ -68,7 +68,7 @@ class App extends Component {
           <div className="container">
               <div className="row">
                   <div className="col-xl-9 mx-auto">
-                      <img src={Logo} alt="joey rooms"></img>
+                    
 
                   </div>
                 
